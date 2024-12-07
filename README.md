@@ -6,3 +6,9 @@ For more info. about these two files, check this [N3K0_GL1TCH](https://neko-glit
 
 # Photoshop example
 ![alt text](https://github.com/mupgarlic/Random-2D-Maps/blob/main/Photoshop_Example.png)
+
+# Blender example
+![alt text](https://github.com/mupgarlic/Random-2D-Maps/blob/main/Blender_Example.png)
+
+# Material node tree
+![alt text](https://github.com/mupgarlic/Random-2D-Maps/blob/main/Material_Prev.png)
